@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FgcuBrainAge</string>
+    <string name="title">FGCU\'s</string>
+    <string name="titlev2">Brain Age Game</string>
+    <string name="start">Start Game</string>
+    <string name="leaderBoard">Leaderboard</string>
+    <string name="settings">Settings</string>
+    <string name="arithmetic">Arithmetic</string>
+    <string name="memorize">Memorize</string>
+    <string name="livesHeader">Lives left:</string>
+    <string name="scoreTitle">Score:</string>
+    <string name="score"></string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="gameResult">----- Game Results -----</string>
+    <string name="difReached">Difficulty Reached:</string>
+    <string name="categoryReturn">Return to Category Selection</string>
+    <string name="mainMenu">Main Menu</string>
+    <string name="aboutInfo"> FGCU\'S Brain Age app is based on Brain Age games which are known as Brain Training in Japan and Europe.
+    The goal of the app is to help improve user\'s mental processes with fun mini-games and competitive leaderboards.
+    The app may have some missing features but updates are sure to come.</string>
+    <string name="about">About</string>
+</resources>

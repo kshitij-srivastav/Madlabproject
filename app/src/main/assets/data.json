@@ -1,0 +1,22 @@
+{
+  "users":[
+    {
+      "id": 1000,
+      "name": "William Angola",
+      "score": 150,
+      "gameMode": "Memory"
+    },
+    {
+      "id": 1100,
+      "name": "IsAme",
+      "score": 80,
+      "gameMode": "Arithmetic"
+    },
+    {
+      "id": 1200,
+      "name": "Luigi",
+      "score": 50,
+      "gameMode": "Arithmetic"
+    }
+  ]
+}
