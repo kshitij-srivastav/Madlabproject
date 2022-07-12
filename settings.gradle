@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "FgcuBrainAge"
-include ':app'
+include ':brain game'

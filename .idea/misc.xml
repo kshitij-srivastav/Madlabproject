@@ -4,10 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Owner/AndroidStudioProjects/FgcuBrainAge/app/src/main/res/layout/activity_about.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/kshit/AndroidStudioProjects/FGCUBrainAgeApp/brain game/src/main/res/layout/activity_about.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/kshit/AndroidStudioProjects/FGCUBrainAgeApp/brain game/src/main/res/layout/activity_splash.xml" value="0.17864583333333334" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

@@ -2,19 +2,19 @@
   "users":[
     {
       "id": 1000,
-      "name": "William Angola",
+      "name": "Kshitij Srivastav",
       "score": 150,
       "gameMode": "Memory"
     },
     {
       "id": 1100,
-      "name": "IsAme",
+      "name": "Nidhi Nayak",
       "score": 80,
       "gameMode": "Arithmetic"
     },
     {
       "id": 1200,
-      "name": "Luigi",
+      "name": "Abhinav Anand",
       "score": 50,
       "gameMode": "Arithmetic"
     }
