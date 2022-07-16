@@ -14,7 +14,7 @@
         android:layout_marginStart="20dp"
         android:layout_marginTop="12dp"
         android:contentDescription="Logo expected to rotate back and forth"
-        android:src="@drawable/logo"
+        android:src="@drawable/logo1"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
